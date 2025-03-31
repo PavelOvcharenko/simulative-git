@@ -11,4 +11,11 @@ b = 2
 print(a + b)
 ```
 
-This is my attempt to write python code `print(a + b)` in line:
+This is my attempt to write python code `print(a + b)` in line
+
+__Жирный__ \
+**Тоже жирный** \
+*Курсив* \
+_Тоже курсив_ \
+~~Зачеркнутый~~ \
+Подробнее на Texterra: https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html
