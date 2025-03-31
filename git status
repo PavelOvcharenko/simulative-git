@@ -1,0 +1,33 @@
+[33mcommit b3396b664bc1fa3fc4afed718cad41dda90a3ba6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mmyrep/master[m[33m, [m[1;31mmyrep/HEAD[m[33m)[m
+Author: Ovcharenko Pavel <47529806+PavelOvcharenko@users.noreply.github.com>
+Date:   Mon Mar 31 15:11:11 2025 +0300
+
+    Update README.md
+    
+    Add hint about text formating: bold, Italic, strikethrough
+
+[33mcommit c3f839eb73929fe6039a434fc22967638be25733[m
+Author: Ovcharenko Pavel <47529806+PavelOvcharenko@users.noreply.github.com>
+Date:   Sun Mar 23 13:19:10 2025 +0300
+
+    Create README.md
+    
+    Created README.md file and added some fun content
+
+[33mcommit 57e25bea99e43146a644af33ff244d474e258b5d[m
+Author: Ovcharenko Pavel <ovcharenko.pl@gmail.com>
+Date:   Sat Mar 22 20:11:51 2025 +0300
+
+    Chenged text in first.txt and second.txt
+
+[33mcommit 3053db0760ab08a8f33aea3a31ca673fa9ec5746[m
+Author: Ovcharenko Pavel <ovcharenko.pl@gmail.com>
+Date:   Sat Mar 22 19:45:15 2025 +0300
+
+    Add first.txt and second.txt to pacage
+
+[33mcommit 71ee402569e7870709a1c068bdb1a39ecf1b521e[m
+Author: Ovcharenko Pavel <ovcharenko.pl@gmail.com>
+Date:   Sat Mar 22 19:31:35 2025 +0300
+
+    Initial commit
